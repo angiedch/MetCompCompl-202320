@@ -1,0 +1,17 @@
+Alpha Particle-electron Mass Ratio                         ,7294.299 541 36, ,0.000 000 24            
+Atomic Mass Unit-electron Volt Relationship                ,931.494 0954 e6, eV,0.000 0057 e6           
+Deuteron-electron Mag. Mom. Ratio                          ,-4.664 345 535 e-4, ,0.000 000 026 e-4       
+Deuteron-electron Mass Ratio                               ,3670.482 967 85, ,0.000 000 13            
+Hartree-electron Volt Relationship                         ,27.211 386 02, eV,0.000 000 17            
+Helion-electron Mass Ratio                                 ,5495.885 279 22, ,0.000 000 27            
+Hertz-electron Volt Relationship                           ,4.135 667 662 e-15, eV,0.000 000 025 e-15      
+Inverse Meter-electron Volt Relationship                   ,1.239 841 9739 e-6, eV,0.000 000 0076 e-6      
+Joule-electron Volt Relationship                           ,6.241 509 126 e18, eV,0.000 000 038 e18       
+Kelvin-electron Volt Relationship                          ,8.617 3303 e-5, eV,0.000 0050 e-5          
+Kilogram-electron Volt Relationship                        ,5.609 588 650 e35, eV,0.000 000 034 e35       
+Muon-electron Mass Ratio                                   ,206.768 2826, ,0.000 0046              
+Neutron-electron Mag. Mom. Ratio                           ,1.040 668 82 e-3, ,0.000 000 25 e-3        
+Neutron-electron Mass Ratio                                ,1838.683 661 58, ,0.000 000 90            
+Proton-electron Mass Ratio                                 ,1836.152 673 89, ,0.000 000 17            
+Tau-electron Mass Ratio                                    ,3477.15, ,0.31
+Triton-electron Mass Ratio                                 ,5496.921 535 88, ,0.000 000 26            
